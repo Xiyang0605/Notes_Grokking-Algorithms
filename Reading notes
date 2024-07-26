@@ -1,2 +1,14 @@
-#Chapter 1
+#Chapter 1 Introduction to algorithms
 - Binary search only works when your list is in sorted order.
+- Algorithm speed isn't measured in seconds.
+- Algorith times are measured in terms of growth of an algorithm - O(n): Linear Time; O(logn) Logarithmic Time.
+- Big O notation lets ppl compare the number of operations, instead of seconds, ms -- it tells how fast the algorithm grows in the worst secnario.
+- O(logn) is faster than O(n), but it gets a lot faster as the list of items grows.
+
+
+#Chapter 2 Selection Sort
+- 
+
+
+
+
