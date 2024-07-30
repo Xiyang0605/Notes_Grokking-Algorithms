@@ -23,3 +23,16 @@
 - A stack has two operations:push and pop.
 - All function calls go onto the call stack.
 - The call stack can get large, which takes a lot of memory - some may choose loops, but it's not that elegant/clear to understand for developers.
+
+#Chapter 4 Quicksort
+- D&C wokrs by breaking a problem down into smaller and smaller pieces.
+- If implementing quicksort, choose a random element as the pivot, the average runtime of quicksort is O(nlogn).
+- The constant in Big O notation matter sometimes, that's why quicksort is faster than merge sort.
+- The constant almost never matters for simple search versus binary search, because O(log n) is so much faster than O(n) when the list is big.
+
+
+#Chapter 5 Hashtables
+- Once your load factor is greater than .07, it's time to resize hash table
+- Hash tables are used for caching data
+- Hash tables are great for catching dubplicates
+
