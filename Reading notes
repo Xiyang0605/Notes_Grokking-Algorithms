@@ -36,3 +36,13 @@
 - Hash tables are used for caching data
 - Hash tables are great for catching dubplicates
 
+
+#Chapter 6 Breadth first search
+- It tells you if there is a path from A to B
+- If there's a path, breadth-first search will find the shortest path
+- If having a problem like 'Find the shortest X', try modeling the problem as a graph and use breadth first search to solve
+- A directed graph has arrows and the relationship follows the direction of the arrow
+- Undirected graph don't have arrows, and the relationship follows the direction of the arrow
+- Queues are FIFO
+- Stacks are LIFO
+- Once you check someone, make sure you don't check them again, otherwise, might end up in an infinite loop
