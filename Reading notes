@@ -46,3 +46,9 @@
 - Queues are FIFO
 - Stacks are LIFO
 - Once you check someone, make sure you don't check them again, otherwise, might end up in an infinite loop
+
+#Chapter 7 Dijkstra's algorithm
+- Breadth-first search is used to calculate the shortest path for an unweighted graph.
+- Dijkstra's algorithm is used to calculate the shortest path for a weighted graph.
+- Dijsktra's algorithm works when all the weights are positive.
+- If you have negative weights, use The Bellman-Ford algorithm.
