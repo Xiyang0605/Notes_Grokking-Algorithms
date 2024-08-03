@@ -52,3 +52,12 @@
 - Dijkstra's algorithm is used to calculate the shortest path for a weighted graph.
 - Dijsktra's algorithm works when all the weights are positive.
 - If you have negative weights, use The Bellman-Ford algorithm.
+
+#Chapter 9 Dynamic programming
+- Dynamic programming is useful when you are trying to optimize something given a constraint.
+- You can use dynamic programming when the problem can be broken into discrete subproblems
+- Every dynamic programming solution involves a grid
+- The values in the cells are usually what you are trying to optimize
+- Each cell is a subporblem, so think about how you can divide your problem into subproblems
+- There is no single formula for calculating a dynamic programming solution
+- Question: What's the difference between longest common substring and longest common subsequence?
