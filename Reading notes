@@ -61,3 +61,10 @@
 - Each cell is a subporblem, so think about how you can divide your problem into subproblems
 - There is no single formula for calculating a dynamic programming solution
 - Question: What's the difference between longest common substring and longest common subsequence?
+
+#Chapter 10 Introduction to machine learning
+-  KNN is used for classification and regression and involves looking at the k-nearest neighbors (example: For N users, look at Sqrt(N) neighbors at least)
+- Classification=categorization into a group
+- Regression=predicting a response
+- Feature extraction means converting an item into a list of numbers that can be compared.
+- Picking good features is important part of a successful KNN algorithm.
